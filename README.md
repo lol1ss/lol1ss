@@ -1,46 +1,31 @@
 <p>
-  <img src="https://i.imgur.com/nJDXhvu.png" width="350" align="left" vspace="5" hspace="5">
-  👋 Greetings traveler! My name is Dani, I live in Turkmenistan (🇹🇲), if anyone is interested. A few years ago, I began to be interested in programming, we can say that this is a hobby that helps to somehow survive in this world. I'm also fond of design, graphics in general, I think I'm pretty good at it. <br><br>
-  Probably, life would seem many times more boring without what I do. It's such a nice feeling when you sit, break your brain, and after good luck you plunge into emotions, these are such fucking feelings when, after a day of your day, you finish the project and rejoice at it. <br><br>
-  It's a great feeling when you're on fire with some idea - you can realize it yourself. You do not need to ask anyone, because you yourself are interested in reading documentation, training, if only people could convey their feelings..
+  <img src="https://i.ibb.co/jyJ64QZ/1663497147084.png" width="350" align="left" vspace="5" hspace="5">
+  👋 Меня зовут Вито Скалетта. Я родился на Сицилии, в 25-м году. Иногда просто хочется пересечь океан и начать новую жизнь. Мне нужен был английский, но чёрта с два я бы заговорил на нём с итальянцами. Нужны были солдаты, говорящие на своем родном языке. Мне было 16, и в тюрьму я не хотел. Кто сказал, что нельзя вернуться на Родину?.. Итак, собираетесь ли вы остаться здесь, или же вас ждут неизвестные дали, добро пожаловать!
+    <p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongoDB" alt="mongoDB" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg"  title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
+</p>
+
+  ### 🔥 &nbsp; Моя статистика :
+  [![GitHub Streak](https://streak-stats.demolab.com?user=lol1ss&theme=highcontrast)](https://git.io/streak-stats)
   <p align="center">
-  <b>Use the buttons below the illustrations to contact me.</b>
   </p>
 </p> 
 <div id="badges">
-  <a href="https://t.me/iredoff">
+  <a href="https://t.me/lol1sss">
     <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=black"/>
   </a>
-  <a href="mailto:danilka1dev@gmail.com">
+  <a href="mailto:gyy25404@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
   <a href="https://instagram.com/iredoff">
     <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black"/>
   </a>
 </div>
-
-
 <br><br><br><br>
-
-
-<p>
-  <img src="https://i.imgur.com/huQAtcc.png" width="350" align="right" vspace="5" hspace="5">
-  🎮 Despite my love for programming and drawing, I also often like to play games. The most convenient gaming for me is PC. The gamepad is somehow inconvenient for me, especially in shooters. But some TEKKEN or Mortal Kombat is quite normal to play with friends. In most cases, I play shooters, survival games, or horror. I HATE POV GAMES FROM THE TOP!!! <br><br>
-  Since I'm talking about desktop gaming, I think it's worth talking about the piece of iron on which I work. <br>
-  <pre>
-  <b>CPU:</b>             Ryzen 5 5600x (6 / 12)
-  <b>Motherboard:</b>     GIGABYTE A520 AORUS ELITE
-  <b>RAM:</b>             G.Skill RIPJAWS V (2x16 / 32Gb)
-  <b>GPU:</b>             NVIDIA GeForce RTX 3060 MSI VENTUS (12Gb)</pre>
-</p> 
-
-<div id="badges" align="right">
-  <a href="https://steamcommunity.com/id/nyansterowo">
-    <img src="https://img.shields.io/badge/Steam-white?style=for-the-badge&logo=steam&logoColor=black"/>
-  </a>
-</div>
-
-<br><br><br><br>
-
-<p align="center"><b>I know that I wrote too much unnecessary information here, I needed to fill out a profile to make it perfect.</b></p>
-
