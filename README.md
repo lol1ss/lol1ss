@@ -26,8 +26,9 @@
   </a>
 </div>
 
-
+---
   ### 🔥 &nbsp; Моя статистика :
   [![GitHub Streak](https://streak-stats.demolab.com?user=lol1ss&theme=highcontrast)](https://git.io/streak-stats)
+---
   <p align="center">
 <br><br><br><br>
