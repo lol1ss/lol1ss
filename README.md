@@ -24,10 +24,5 @@
     <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black"/>
   </a>
 </div>
-
----
-  ### 🔥 &nbsp; Моя статистика :
-  [![GitHub Streak](https://streak-stats.demolab.com?user=lol1ss&theme=highcontrast)](https://git.io/streak-stats)
----
   <p align="center">
 <br><br><br><br>
