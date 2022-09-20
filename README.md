@@ -4,6 +4,7 @@
 <p dir="ltr"><li><font size="7">Welcome. Welcome to my Github! I am proud to call Github my home. So, are you going to stay here, or are you waiting for unknown distances, welcome! It's safe here.</p>
 <p dir="ltr"><li><font size="7">Hope is worthless...</p>
 <p dir="ltr"><li><font size="7">
+<p dir="ltr"><li><font size="7">
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
