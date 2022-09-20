@@ -2,6 +2,7 @@
   <img src="https://i.ibb.co/jyJ64QZ/1663497147084.png" width="350" align="left" vspace="5" hspace="5">
 <p dir="ltr"><li><font size="7">👋 My name is Vito Scaletta. I was born in Sicily in the 25th year. Sometimes you just want to taste the ocean and start a new life. I needed English, but the hell with two I would speak it with Italians. We needed soldiers who spoke their own language. I was 16 and I didn't want to anytime soon. Who said that you can not return to your homeland?..</p>
 <p dir="ltr"><li><font size="7">Welcome. Welcome to my Github! I am proud to call Github my home. So, are you going to stay here, or are you waiting for unknown distances, welcome! It's safe here.</p>
+<p dir="ltr"><li><font size="7">Hope is worthless...</p>
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
