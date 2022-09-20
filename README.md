@@ -24,5 +24,4 @@
     <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black"/>
   </a>
 </div>
-  <p align="center">
 <br><br><br><br>
