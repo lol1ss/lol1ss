@@ -20,7 +20,7 @@
   <a href="mailto:gyy25404@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
-  <a href="https://instagram.com/iredoff">
+  <a href="https://instagram.com/lol1sss">
     <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black"/>
   </a>
 </div>
