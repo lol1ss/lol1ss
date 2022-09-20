@@ -4,20 +4,15 @@
 <p dir="ltr"><li><font size="7">Welcome. Welcome to my Github! I am proud to call Github my home. So, are you going to stay here, or are you waiting for unknown distances, welcome! It's safe here.</p>
 <p dir="ltr"><li><font size="7">Hope is worthless...</p>
 <p dir="ltr"><li><font size="7">
-<p dir="ltr"><li><font size="7">
-<p dir="ltr"><li><font size="7">
-<p dir="ltr"><li><font size="7">
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/lol1ss/lol1ss/blob/main/img/565444.png"  title="DiscordJS" alt="DiscordJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongoDB" alt="mongoDB" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg"  title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
-</p> 
+<img src="https://github.com/lol1ss/lol1ss/blob/main/img/565444.png"  title="DiscordJS" alt="DiscordJS" width="40" height="40"/>&nbsp;</p>
+<p dir="ltr"><li><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;</p>
+<p dir="ltr"><li><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongoDB" alt="mongoDB" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;</p>
+<p dir="ltr"><li><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg"  title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;</p>
 <div id="badges">
   <a href="https://t.me/lol1sss">
     <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=black"/>
