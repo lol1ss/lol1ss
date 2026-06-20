@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
 </p>
 <div id="badges">
-  <a href="https://t.me/lol1sss">
+  <a href="https://t.me/yesshapski">
     <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="mailto:gyy25404@gmail.com">
